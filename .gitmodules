@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-doors"]
+	path = themes/hugo-theme-doors
+	url = https://github.com/zzzmisa/hugo-theme-doors.git
