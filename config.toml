@@ -4,7 +4,7 @@ baseurl = "https://portfolio.m4ck3ngm.com/"
 languageCode = "en-us"
 title = "Mackenzie G. McFate"
 copyright = "© Hugo Theme Doors"
-#googleAnalytics = "UA-xxxxxxxx-x"
+googleAnalytics = "UA-187260584-1"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "hugo-theme-doors"
 
