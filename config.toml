@@ -48,14 +48,6 @@ w = "780"
 h = "518"
 
 [[params.subprojects.list]]
-title = "The Compass Rose Band"
-url = "https://compassroseband.net"
-description = "A classic/southern rock band based out of Cedar Rapids, IA, featuring my uncle!"
-image = "images/crb.jpg"
-w = "780"
-h = "518"
-
-[[params.subprojects.list]]
 title = "STC REC Site"
 url = "https://stc-rec.tamatoledo.org"
 description = "A site for information and forms pertaining to South Tama County Schools' Recreation Programs."
