@@ -4,7 +4,7 @@ baseurl = "https://portfolio.m4ck3ngm.com/"
 languageCode = "en-us"
 title = "Mackenzie G. McFate"
 copyright = "© Hugo Theme Doors"
-googleAnalytics = "UA-187260584-1"
+# googleAnalytics = "UA-187260584-1"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 theme = "hugo-theme-doors"
 
@@ -52,6 +52,14 @@ title = "STC REC Site"
 url = "https://stc-rec.tamatoledo.org"
 description = "A site for information and forms pertaining to South Tama County Schools' Recreation Programs."
 image = "images/sports.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Italiano Woods"
+url = "https://italianowoods.com"
+description = "Landing page for Italiano Woods Kennel"
+image = "images/italianowoods.jpg"
 w = "780"
 h = "518"
 
